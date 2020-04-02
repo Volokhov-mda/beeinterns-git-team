@@ -1,5 +1,5 @@
 # Team name
-Team slogan 
+clean-coders 
 
 ## Members:
 * Member 1
