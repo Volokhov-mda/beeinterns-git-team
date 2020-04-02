@@ -1,5 +1,5 @@
 # Clean-coders
-Team slogan 
+clean-coders
 
 ## Members:
 * Волохов Никита Алексеевич 
