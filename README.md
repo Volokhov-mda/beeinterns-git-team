@@ -1,4 +1,4 @@
-# Team name
+# Clean-coders
 Team slogan 
 
 ## Members:
